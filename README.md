@@ -1,4 +1,6 @@
+<img width="1288" height="631" alt="Screenshot 2025-08-08 122723" src="https://github.com/user-attachments/assets/070f4d44-042a-4fc9-b042-0c9a5716b15d" />
 Live site URL : https://assignment-11-2e54a.web.app/
+
 
 # 🌱 Event Platform - ServeCircle
 
