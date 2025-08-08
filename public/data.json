@@ -1,0 +1,788 @@
+[
+  {
+    "id": "0",
+    "name": "TechNova",
+    "logo": "https://i.ibb.co.com/DfyyZHmm/images.jpg",
+    "location": "Berlin",
+    "website": "https://technova.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/F4BfVhYt/b10f75ab-0813-453a-8721-551137516ded.jpg",
+        "location": "Toronto",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "Build and maintain software.",
+        "requirements": [
+          "Experience with Node.js or Express",
+          "Excellent problem-solving skills",
+          "Knowledge of Git and version control",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs"
+        ]
+      },
+      {
+        "id": "job-002",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/mCCqYXgw/How-to-become-a-Backend-Developer.jpg",
+        "location": "Tokyo",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": "Analyze data and generate reports.",
+        "requirements": [
+          "Good understanding of responsive design",
+          "Familiarity with RESTful APIs",
+          "Understanding of Agile methodologies",
+          "Experience with React or Vue.js",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "job-003",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/mCCqYXgw/How-to-become-a-Backend-Developer.jpg",
+        "location": "Berlin",
+        "salary": "$40k-$60k",
+        "jobType": "Internship",
+        "description": "Develop responsive websites.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Strong communication skills",
+          "Excellent problem-solving skills",
+          "Understanding of Agile methodologies",
+          "Good understanding of responsive design"
+        ]
+      },
+      {
+        "id": "job-004",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/LzYQ9FL1/Frontend-Developer.jpg",
+        "location": "Sydney",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": " Create visual designs.",
+        "requirements": [
+          "Excellent problem-solving skills",
+          "Familiarity with RESTful APIs",
+          "Strong communication skills",
+          "Understanding of Agile methodologies",
+          "Experience with React or Vue.js"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "1",
+    "name": "InnoSoft",
+    "logo": "https://i.ibb.co.com/TMtmQCY8/download.png",
+    "location": "San Francisco",
+    "website": "https://innosoft.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-011",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/67rqvGbV/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-relea.webp",
+        "location": "Dhaka",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": "Manage online campaigns.",
+        "requirements": [
+          "Strong communication skills",
+          "Ability to work in a team",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-012",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/mCCqYXgw/How-to-become-a-Backend-Developer.jpg",
+        "location": "Toronto",
+        "salary": "$40k-$60k",
+        "jobType": "Part-time",
+        "description": "Assist customers and resolve issues.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Understanding of Agile methodologies"
+        ]
+      },
+      {
+        "id": "job-013",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://i.ibb.co.com/LzYQ9FL1/Frontend-Developer.jpg",
+        "location": "New York",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": "Sell products and meet targets.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Ability to work in a team",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design"
+        ]
+      },
+      {
+        "id": "job-014",
+        "title": "Backend Developer",
+        "bannerImage": "https://i.ibb.co.com/fG9XWrf1/360-F-318606217-Hk8jo2-MVo-I33-SQOk-Yrf-OF929-J7-Jg-IP0-P.jpg",
+        "location": "Singapore",
+        "salary": "$100k-$120k",
+        "jobType": "Part-time",
+        "description": "Support HR and recruit staff.",
+        "requirements": [
+          "Ability to work in a team",
+          "Excellent problem-solving skills",
+          "Good understanding of responsive design",
+          "Experience with Node.js or Express",
+          "Knowledge of Git and version control"
+        ]
+      },
+      {
+        "id": "job-015",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://i.ibb.co.com/YFMSvH7Z/arvatosystems-digitalexperiences-ux-ui-design-grafik-en-data.png",
+        "location": "New York",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "Manage finances and reports.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Experience with Node.js or Express",
+          "Understanding of Agile methodologies",
+          "Excellent problem-solving skills",
+          "Good understanding of responsive design"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "DevHouse",
+    "logo": "https://i.ibb.co.com/zTNwFvdM/dv10y20211353142021-12-292984792-Letter-HD-Home-Developer-Logo.webp",
+    "location": "London",
+    "website": "https://devhouse.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-021",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/LzYQ9FL1/Frontend-Developer.jpg",
+        "location": "Toronto",
+        "salary": "$40k-$60k",
+        "jobType": "Internship",
+        "description": "Build and maintain software.",
+        "requirements": [
+          "Good understanding of responsive design",
+          "Ability to work in a team",
+          "Knowledge of Git and version control",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Familiarity with RESTful APIs"
+        ]
+      },
+      {
+        "id": "job-022",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/67rqvGbV/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-relea.webp",
+        "location": "Berlin",
+        "salary": "$40k-$60k",
+        "jobType": "Internship",
+        "description": "Analyze data and generate reports.",
+        "requirements": [
+          "Ability to work in a team",
+          "Good understanding of responsive design",
+          "Knowledge of Git and version control",
+          "Experience with React or Vue.js",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-023",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/LzYQ9FL1/Frontend-Developer.jpg",
+        "location": "Berlin",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": "Develop responsive websites.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Understanding of Agile methodologies",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Strong communication skills",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "job-024",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://i.ibb.co.com/67rqvGbV/devops-banner-concept-has-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-relea.webp",
+        "location": "Berlin",
+        "salary": "$40k-$60k",
+        "jobType": "Full-time",
+        "description": "Create visual designs.",
+        "requirements": [
+          "Familiarity with RESTful APIs",
+          "Strong communication skills",
+          "Good understanding of responsive design",
+          "Ability to work in a team",
+          "Understanding of Agile methodologies"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "CodeCraft",
+    "logo": "https://i.ibb.co.com/N23BkW5c/images.jpg",
+    "location": "Tokyo",
+    "website": "https://codecraft.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-033",
+        "title": "Backend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Berlin",
+        "salary": "$100k-$120k",
+        "jobType": "Remote",
+        "description": "Manage online campaigns.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with Node.js or Express",
+          "Familiarity with RESTful APIs",
+          "Ability to work in a team",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-034",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Singapore",
+        "salary": "$100k-$120k",
+        "jobType": "Part-time",
+        "description": "Assist customers and resolve issues.",
+        "requirements": [
+          "Ability to work in a team",
+          "Experience with Node.js or Express",
+          "Knowledge of Git and version control",
+          "Excellent problem-solving skills",
+          "Proficient in HTML, CSS, and JavaScript"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "ByteWorks",
+    "logo": "https://i.ibb.co.com/PvDbQ5X0/images.png",
+    "location": "London",
+    "website": "https://byteworks.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-041",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Berlin",
+        "salary": "$60k-$80k",
+        "jobType": "Internship",
+        "description": "Write articles and blogs.",
+        "requirements": [
+          "Experience with Node.js or Express",
+          "Excellent problem-solving skills",
+          "Familiarity with RESTful APIs",
+          "Knowledge of Git and version control",
+          "Understanding of Agile methodologies"
+        ]
+      },
+      {
+        "id": "job-042",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Sydney",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": "Sell products and meet targets.",
+        "requirements": [
+          "Good understanding of responsive design",
+          "Experience with React or Vue.js",
+          "Understanding of Agile methodologies",
+          "Excellent problem-solving skills",
+          "Experience with Node.js or Express"
+        ]
+      },
+      {
+        "id": "job-043",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "San Francisco",
+        "salary": "$100k-$120k",
+        "jobType": "Internship",
+        "description": "Support HR and recruit staff.",
+        "requirements": [
+          "Good understanding of responsive design",
+          "Ability to work in a team",
+          "Understanding of Agile methodologies",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Strong communication skills"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "CyberNet",
+    "logo": "https://i.ibb.co.com/ZR5rvgSR/images.jpg",
+    "location": "Sydney",
+    "website": "https://cybernet.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-051",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Dhaka",
+        "salary": "$60k-$80k",
+        "jobType": "Remote",
+        "description": "Manage finances and reports.",
+        "requirements": [
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Knowledge of Git and version control",
+          "Ability to work in a team",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-052",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "San Francisco",
+        "salary": "$60k-$80k",
+        "jobType": "Full-time",
+        "description": "Build and maintain software.",
+        "requirements": [
+          "Ability to work in a team",
+          "Strong communication skills",
+          "Understanding of Agile methodologies",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-053",
+        "title": "Backend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "London",
+        "salary": "$40k-$60k",
+        "jobType": "Part-time",
+        "description": "Analyze data and generate reports.",
+        "requirements": [
+          "Excellent problem-solving skills",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Familiarity with RESTful APIs",
+          "Knowledge of Git and version control",
+          "Experience with React or Vue.js"
+        ]
+      },
+      {
+        "id": "job-054",
+        "title": "Backend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "New York",
+        "salary": "$40k-$60k",
+        "jobType": "Full-time",
+        "description": "Oversee project timelines and teams.",
+        "requirements": [
+          "Experience with Node.js or Express",
+          "Excellent problem-solving skills",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Familiarity with RESTful APIs",
+          "Understanding of Agile methodologies"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "NetFusion",
+    "logo": "https://i.ibb.co.com/Xfr2Zzyr/download.jpg",
+    "location": "London",
+    "website": "https://netfusion.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-064",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Toronto",
+        "salary": "$80k-$100k",
+        "jobType": "Remote",
+        "description": "Design user interfaces and experiences.",
+        "requirements": [
+          "Understanding of Agile methodologies",
+          "Knowledge of Git and version control",
+          "Excellent problem-solving skills",
+          "Good understanding of responsive design",
+          "Experience with Node.js or Express"
+        ]
+      },
+      {
+        "id": "job-065",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Mumbai",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": "Optimize websites for search engines.",
+        "requirements": [
+          "Excellent problem-solving skills",
+          "Understanding of Agile methodologies",
+          "Ability to work in a team",
+          "Experience with Node.js or Express",
+          "Knowledge of Git and version control"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "PixelLogic",
+    "logo": "https://i.ibb.co.com/DP8t14fk/download.jpg",
+    "location": "Berlin",
+    "website": "https://pixellogic.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-071",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "London",
+        "salary": "$80k-$100k",
+        "jobType": "Remote",
+        "description": "Manage and troubleshoot networks.",
+        "requirements": [
+          "Understanding of Agile methodologies",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Excellent problem-solving skills"
+        ]
+      },
+      {
+        "id": "job-072",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Mumbai",
+        "salary": "$80k-$100k",
+        "jobType": "Part-time",
+        "description": "Edit and proofread content for clarity.",
+        "requirements": [
+          "Excellent problem-solving skills",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Familiarity with RESTful APIs",
+          "Ability to work in a team",
+          "Experience with Node.js or Express"
+        ]
+      },
+      {
+        "id": "job-073",
+        "title": "Backend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Mumbai",
+        "salary": "$100k-$120k",
+        "jobType": "Internship",
+        "description": "Write persuasive and clear copy.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Understanding of Agile methodologies",
+          "Ability to work in a team",
+          "Experience with Node.js or Express",
+          "Proficient in HTML, CSS, and JavaScript"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "SoftWave",
+    "logo": "https://i.ibb.co.com/XxfQTDWG/download.jpg",
+    "location": "San Francisco",
+    "website": "https://softwave.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-081",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Dhaka",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "Oversee daily operations and processes.",
+        "requirements": [
+          "Excellent problem-solving skills",
+          "Knowledge of Git and version control",
+          "Good understanding of responsive design",
+          "Ability to work in a team",
+          "Experience with React or Vue.js"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "name": "CloudNest",
+    "logo": "https://i.ibb.co.com/3mdsQFS8/download.jpg",
+    "location": "London",
+    "website": "https://cloudnest.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-092",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Sydney",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "Plan and execute marketing strategies.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Understanding of Agile methodologies",
+          "Knowledge of Git and version control",
+          "Familiarity with RESTful APIs",
+          "Experience with React or Vue.js"
+        ]
+      },
+      {
+        "id": "job-093",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Sydney",
+        "salary": "$60k-$80k",
+        "jobType": "Internship",
+        "description": "Design user interfaces and experiences.",
+        "requirements": [
+          "Strong communication skills",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Good understanding of responsive design",
+          "Understanding of Agile methodologies",
+          "Ability to work in a team"
+        ]
+      },
+      {
+        "id": "job-094",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Dhaka",
+        "salary": "$80k-$100k",
+        "jobType": "Full-time",
+        "description": " Write persuasive and clear copy.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Strong communication skills"
+        ]
+      },
+      {
+        "id": "job-095",
+        "title": "Backend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Sydney",
+        "salary": "$60k-$80k",
+        "jobType": "Full-time",
+        "description": "Plan and execute marketing strategies.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Good understanding of responsive design",
+          "Ability to work in a team",
+          "Understanding of Agile methodologies",
+          "Experience with Node.js or Express"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Appify",
+    "logo": "https://i.ibb.co.com/XhKtsfb/download.jpg",
+    "location": "London",
+    "website": "https://appify.com",
+    "industry": "Healthcare",
+    "jobs": [
+      {
+        "id": "job-101",
+        "title": "Full Stack Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "San Francisco",
+        "salary": "$60k-$80k",
+        "jobType": "Part-time",
+        "description": " Write persuasive and clear copy.",
+        "requirements": [
+          "Ability to work in a team",
+          "Strong communication skills",
+          "Excellent problem-solving skills",
+          "Familiarity with RESTful APIs",
+          "Proficient in HTML, CSS, and JavaScript"
+        ]
+      },
+      {
+        "id": "job-102",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Singapore",
+        "salary": "$40k-$60k",
+        "jobType": "Part-time",
+        "description": "This is a sample job description.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with Node.js or Express",
+          "Knowledge of Git and version control",
+          "Excellent problem-solving skills",
+          "Experience with React or Vue.js"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "name": "NextGen",
+    "logo": "https://i.ibb.co.com/HTybBgg1/download.jpg",
+    "location": "Berlin",
+    "website": "https://nextgen.com",
+    "industry": "Fintech",
+    "jobs": [
+      {
+        "id": "job-112",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Berlin",
+        "salary": "$100k-$120k",
+        "jobType": "Internship",
+        "description": "Optimize websites for search engines.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Good understanding of responsive design",
+          "Excellent problem-solving skills",
+          "Familiarity with RESTful APIs",
+          "Understanding of Agile methodologies"
+        ]
+      },
+      {
+        "id": "job-113",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Mumbai",
+        "salary": "$100k-$120k",
+        "jobType": "Remote",
+        "description": "Write persuasive and clear copy.",
+        "requirements": [
+          "Ability to work in a team",
+          "Good understanding of responsive design",
+          "Strong communication skills",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs"
+        ]
+      },
+      {
+        "id": "job-114",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Berlin",
+        "salary": "$40k-$60k",
+        "jobType": "Remote",
+        "description": " Plan and execute marketing strategies.",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Excellent problem-solving skills",
+          "Familiarity with RESTful APIs",
+          "Ability to work in a team",
+          "Understanding of Agile methodologies"
+        ]
+      },
+      {
+        "id": "job-115",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "New York",
+        "salary": "$100k-$120k",
+        "jobType": "Internship",
+        "description": "Oversee project timelines and teams.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Strong communication skills",
+          "Excellent problem-solving skills",
+          "Good understanding of responsive design",
+          "Experience with Node.js or Express"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "name": "SmartEdge",
+    "logo": "https://i.ibb.co.com/yFyF3xTZ/download.jpg",
+    "location": "Sydney",
+    "website": "https://smartedge.com",
+    "industry": "Software Development",
+    "jobs": [
+      {
+        "id": "job-121",
+        "title": "DevOps Engineer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Dhaka",
+        "salary": "$40k-$60k",
+        "jobType": "Part-time",
+        "description": "Build and maintain software.",
+        "requirements": [
+          "Knowledge of Git and version control",
+          "Understanding of Agile methodologies",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Proficient in HTML, CSS, and JavaScript"
+        ]
+      },
+      {
+        "id": "job-122",
+        "title": "UI/UX Designer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Sydney",
+        "salary": "$100k-$120k",
+        "jobType": "Full-time",
+        "description": "Develop responsive websites.",
+        "requirements": [
+          "Familiarity with RESTful APIs",
+          "Experience with Node.js or Express",
+          "Strong communication skills",
+          "Knowledge of Git and version control",
+          "Experience with React or Vue.js"
+        ]
+      },
+      {
+        "id": "job-123",
+        "title": "Frontend Developer",
+        "bannerImage": "https://example.com/job-banner.jpg",
+        "location": "Toronto",
+        "salary": "$40k-$60k",
+        "jobType": "Internship",
+        "description": "Create visual designs.",
+        "requirements": [
+          "Experience with React or Vue.js",
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with Node.js or Express",
+          "Knowledge of Git and version control",
+          "Good understanding of responsive design"
+        ]
+      }
+    ]
+  }
+]
